@@ -1,0 +1,3 @@
+This directory contains files containing challenges that will make you use OOP to solve them. By the end of the challenge, you will be able to use the classes you created to simulate a small pokemon battle.
+
+Right now, there is only one notebook that contains the instructions, but in your branch, make sure you create the necessary scripts that will contain the classes, and another script that will import the classes and run the battle.
